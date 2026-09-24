@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "language": "ISL",
+  "description": "MVP vocabulary for ISL Bridge. Add signs here without changing application code.",
+  "labels": [
+    { "id": "HELLO", "display": "Hello", "spoken": "Hello", "collect": true, "hint": "Open right palm and wave side to side." },
+    { "id": "GOOD_MORNING", "display": "Good morning", "spoken": "Good morning" },
+    { "id": "THANK_YOU", "display": "Thank you", "spoken": "Thank you", "collect": true, "hint": "Open right palm at the chin, then move it forward and down." },
+    { "id": "PLEASE", "display": "Please", "spoken": "Please" },
+    { "id": "HELP", "display": "Help", "spoken": "Help", "collect": true, "hint": "Left palm up, right fist on it, lift both hands." },
+    { "id": "NEED", "display": "Need", "spoken": "Need" },
+    { "id": "CALL", "display": "Call", "spoken": "Call" },
+    { "id": "YES", "display": "Yes", "spoken": "Yes", "collect": true, "hint": "Right fist, nod it up and down." },
+    { "id": "NO", "display": "No", "spoken": "No", "collect": true, "hint": "Right index finger up, wag left and right." },
+    { "id": "WATER", "display": "Water", "spoken": "Water", "collect": true, "hint": "Three middle fingers up, tap near the mouth." },
+    { "id": "FOOD", "display": "Food", "spoken": "Food" },
+    { "id": "DOCTOR", "display": "Doctor", "spoken": "Doctor", "collect": true, "hint": "Left wrist out, tap the pulse with two right fingers." },
+    { "id": "HOSPITAL", "display": "Hospital", "spoken": "Hospital", "collect": true, "hint": "Draw a cross with the right index finger." },
+    { "id": "MEDICINE", "display": "Medicine", "spoken": "Medicine" },
+    { "id": "PAIN", "display": "Pain", "spoken": "Pain" },
+    { "id": "EMERGENCY", "display": "Emergency", "spoken": "Emergency" },
+    { "id": "HOME", "display": "Home", "spoken": "Home" },
+    { "id": "NAME", "display": "Name", "spoken": "Name" },
+    { "id": "WHERE", "display": "Where", "spoken": "Where" },
+    { "id": "WHAT", "display": "What", "spoken": "What" },
+    { "id": "I", "display": "I", "spoken": "I", "collect": true, "hint": "Point the right index finger at your chest." },
+    { "id": "YOU", "display": "You", "spoken": "You", "collect": true, "hint": "Point the right index finger forward." }
+  ]
+}

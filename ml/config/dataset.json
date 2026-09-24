@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "labels_path": "backend/config/labels.json",
+  "sequence_length": 30,
+  "min_frames": 10,
+  "max_frames": 90,
+  "split": {
+    "train": 0.70,
+    "validation": 0.15,
+    "test": 0.15
+  },
+  "seed": 42,
+  "notes": "Training uses labels with collect=true in labels.json. Inference SequenceBuffer uses sequence_length from this file / backend settings (keep them equal)."
+}

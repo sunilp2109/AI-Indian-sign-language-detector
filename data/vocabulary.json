@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "source": "backend/config/labels.json",
+  "notes": "Runtime catalog is labels.json. Phase 3 collection/training uses entries with collect=true.",
+  "signs": [
+    "HELLO",
+    "GOOD_MORNING",
+    "THANK_YOU",
+    "PLEASE",
+    "HELP",
+    "NEED",
+    "CALL",
+    "YES",
+    "NO",
+    "WATER",
+    "FOOD",
+    "DOCTOR",
+    "HOSPITAL",
+    "MEDICINE",
+    "PAIN",
+    "EMERGENCY",
+    "HOME",
+    "NAME",
+    "WHERE",
+    "WHAT",
+    "I",
+    "YOU"
+  ],
+  "collect": [
+    "HELLO",
+    "THANK_YOU",
+    "HELP",
+    "YES",
+    "NO",
+    "WATER",
+    "DOCTOR",
+    "HOSPITAL",
+    "I",
+    "YOU"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "rnn_type": "lstm",
+  "hidden_size": 128,
+  "num_layers": 2,
+  "dropout": 0.35,
+  "bidirectional": true,
+  "learning_rate": 0.0008,
+  "weight_decay": 0.0002,
+  "batch_size": 32,
+  "epochs": 60,
+  "early_stopping_patience": 10,
+  "label_smoothing": 0.05,
+  "grad_clip": 1.0,
+  "use_cosine": true,
+  "seed": 42,
+  "notes": "input_size, sequence_length, and num_classes are read from processed X.npy / label_map.json — do not hardcode them here. Bidirectional LSTM + label smoothing are for the simple-sign kinematic set, not a published ISL score."
+}
